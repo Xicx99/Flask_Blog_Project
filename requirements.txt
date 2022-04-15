@@ -15,7 +15,7 @@ bleach==5.0.0
 click==8.1.2
 colorama==0.4.4
 dominate==2.6.0
-greenlet=1.1.2
+greenlet==1.1.2
 itsdangerous==2.1.2
 pip==22.0.4
 python-dotenv==0.20.0
